@@ -26,3 +26,13 @@ I expect to learn how to use Git and GitHub, manage software projects, understan
 - **Technical skills I want to improve:** Python, SQL, and programming skills
 - **Technologies I want to learn:** Git, GitHub, and modern development tools
 - **Dream Job Position:** Data Analyst
+
+## Semester Goals
+- Improve my programming skills.
+- Learn more about Git and GitHub.
+- Improve my database and data analysis skills.
+
+## Portfolio Projects
+- Smart Canteen QR Ordering System
+- Data Analysis Projects using Excel and Power BI
+- GitHub Developer Portfolio
